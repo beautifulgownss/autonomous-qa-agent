@@ -1,0 +1,13 @@
+{
+    "page": "https://example.com",
+    "issues": [
+      {
+        "id": "accessibility_missing_alt",
+        "description": "Image missing alt text",
+        "severity": "High",
+        "detector": "AccessibilityDetector"
+      }
+    ],
+    "quality_score": 88,
+    "summary": "Detected 1 high severity accessibility issue."
+  }  
